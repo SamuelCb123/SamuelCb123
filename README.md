@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Samuel Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h1 ><b>Sobre mi </b></h1
-<p>Apasionado por el aprendizaje continuo y con una sólida capacidad para trabajar tanto de manera individual como en equipo. Como Junior Full Stack Developer, estoy en constante búsqueda de nuevos desafíos y oportunidades para mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.to de los proyectos en los que participo./p>
+<p>Apasionado por el aprendizaje continuo y con una sólida capacidad para trabajar tanto de manera individual como en equipo. Como Junior Full Stack Developer, estoy en constante búsqueda de nuevos desafíos y oportunidades para mejorar mis habilidades y contribuir al éxito de los proyectos en los que participo.to de los proyectos en los que participo.</p>
 
 
 
